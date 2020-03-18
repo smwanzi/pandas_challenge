@@ -1,2 +1,2 @@
 # pandas_challenge
-pandas homework - PyCitySchools
+pandas homework - Academy of Py
